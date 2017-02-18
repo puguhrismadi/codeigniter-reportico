@@ -1,0 +1,26 @@
+{
+	"name": "dan4cat/codeigniter-reportico",
+	"description" : "Reportico Module for CodeIgniter 3.x",
+	"license": "GPL-2.0",
+	"type": "library",
+	"keywords": [
+		"Reportico",
+		"CodeIgniter",
+		"Reports",
+		"Reporting"
+	],
+	"authors": [
+		{
+		    "name": "FrancescoUK"
+		},
+		{
+		    "name": "jsam9"
+		}
+	],
+	"homepage": "https://github.com/daN4cat/codeigniter-reportico",
+	"require": {
+		"php": "^5.5 || ^7.0",
+		"reportico-web/reportico": "^4.6",
+		"codeigniter/framework": "^3.1"
+	}
+}

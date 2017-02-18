@@ -17,5 +17,5 @@ Original author: jsam9
 - PHP Interactive Report Designer
 - CodeIgniter Library
 - Same functionality found in Reportico
-- Compatible with CodeIgniter 2.4.x and 3.x
+- Compatible with CodeIgniter 3.x
 

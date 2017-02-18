@@ -1,0 +1,97 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "hash": "8b401b3a939c3b33226129adfb5f0c59",
+    "content-hash": "7a1f72dace4958fca63a726cb67e76b4",
+    "packages": [
+        {
+            "name": "codeigniter/framework",
+            "version": "3.1.3",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/bcit-ci/CodeIgniter.git",
+                "reference": "5ea77465c445157fb1096c38f5c2d27384b780b7"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/bcit-ci/CodeIgniter/zipball/5ea77465c445157fb1096c38f5c2d27384b780b7",
+                "reference": "5ea77465c445157fb1096c38f5c2d27384b780b7",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.2.4"
+            },
+            "require-dev": {
+                "mikey179/vfsstream": "1.1.*"
+            },
+            "suggest": {
+                "paragonie/random_compat": "Provides better randomness in PHP 5.x"
+            },
+            "type": "project",
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "description": "The CodeIgniter framework",
+            "homepage": "https://codeigniter.com",
+            "time": "2017-01-09 14:32:03"
+        },
+        {
+            "name": "reportico-web/reportico",
+            "version": "4.6.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/reportico-web/reportico.git",
+                "reference": "90957af91a2855eaa7d3ea8a32df60e9e8f926eb"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/reportico-web/reportico/zipball/90957af91a2855eaa7d3ea8a32df60e9e8f926eb",
+                "reference": "90957af91a2855eaa7d3ea8a32df60e9e8f926eb",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.4.0"
+            },
+            "type": "project",
+            "autoload": {
+                "classmap": [
+                    "reportico.php"
+                ],
+                "psr-0": {
+                    "Reportico\\Reportico": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "GPL-3.0"
+            ],
+            "authors": [
+                {
+                    "name": "Reportico",
+                    "email": "info@reportico.org"
+                }
+            ],
+            "description": "Reportico Open Source PHP report Designer",
+            "homepage": "http://www.reportico.org/",
+            "keywords": [
+                "report",
+                "reporting"
+            ],
+            "time": "2017-02-15 23:24:24"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": {
+        "php": ">=5.5"
+    },
+    "platform-dev": []
+}
