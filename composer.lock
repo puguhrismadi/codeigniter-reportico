@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "8b401b3a939c3b33226129adfb5f0c59",
-    "content-hash": "7a1f72dace4958fca63a726cb67e76b4",
+    "hash": "f4a9cfbc3b0e7d37edad96f074a1b315",
+    "content-hash": "cc7b428ab584687e29423b182435a9ec",
     "packages": [
         {
             "name": "codeigniter/framework",
@@ -91,7 +91,7 @@
     "prefer-stable": false,
     "prefer-lowest": false,
     "platform": {
-        "php": ">=5.5"
+        "php": "^5.5 || ^7.0"
     },
     "platform-dev": []
 }
